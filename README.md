@@ -52,8 +52,3 @@ The **Mini Quiz Application** is a Java-based application where users can take q
 - Java 8 or above
 - MySQL Server
 - Spring Boot for backend
-
-## Future Enhancements
-- **Leaderboard**: Show top-performing users with their quiz scores.
-- **Multiple Question Types**: Add support for different question types like multiple-choice or true/false.
-- **User Accounts**: Allow users to create accounts and track their quiz history.
