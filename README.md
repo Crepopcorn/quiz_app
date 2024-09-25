@@ -6,10 +6,10 @@ The **Mini Quiz Application** is a Java-based application where users can take q
 
 ## App
 ##### login layout
-![table_page](https://github.com/Crepopcorn/personal_budget_tracker/blob/main/layout-applogin.jpg)
+![table_page](https://github.com/Crepopcorn/quiz_app/blob/main/layout-applogin.jpg)
 
 ##### quiz answer layout
-![table_page](https://github.com/Crepopcorn/personal_budget_tracker/blob/main/layout-appquiz.jpg)
+![table_page](https://github.com/Crepopcorn/quiz_app/blob/main/layout-appquiz.jpg)
 
 ## Features
 - **Take Quizzes**: Users can attempt quizzes from different categories such as Science, Math, or History.
