@@ -1,8 +1,8 @@
 
-# Online Quiz Application
+# Mini Quiz Application
 
 ## Overview
-The **Online Quiz Application** is a Java-based application where users can take quizzes, track their scores, and choose from a variety of quiz categories. The app also includes an admin panel where administrators can add, edit, or delete quiz questions. It’s designed to be simple, fun, and interactive for both users and administrators.
+The **Mini Quiz Application** is a Java-based application where users can take quizzes, track their scores, and choose from a variety of quiz categories. The app also includes an admin panel where administrators can add, edit, or delete quiz questions. It’s designed to be simple, fun, and interactive for both users and administrators.
 
 ## Features
 - **Take Quizzes**: Users can attempt quizzes from different categories such as Science, Math, or History.
@@ -37,6 +37,12 @@ The **Online Quiz Application** is a Java-based application where users can take
        category VARCHAR(50),
        question TEXT,
        answer VARCHAR(255)
+   );
+
+    CREATE TABLE users (
+      id INT AUTO_INCREMENT PRIMARY KEY,
+      username VARCHAR(50) UNIQUE NOT NULL,
+      password VARCHAR(100) NOT NULL
    );
    ```
 
