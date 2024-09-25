@@ -4,6 +4,13 @@
 ## Overview
 The **Mini Quiz Application** is a Java-based application where users can take quizzes, track their scores, and choose from a variety of quiz categories. The app also includes an admin panel where administrators can add, edit, or delete quiz questions. 
 
+## App
+##### login layout
+![table_page](https://github.com/Crepopcorn/personal_budget_tracker/blob/main/layout-applogin.jpg)
+
+##### quiz answer layout
+![table_page](https://github.com/Crepopcorn/personal_budget_tracker/blob/main/layout-appquiz.jpg)
+
 ## Features
 - **Take Quizzes**: Users can attempt quizzes from different categories such as Science, Math, or History.
 - **Track Scores**: After each quiz, users can see their score and get feedback on their answers.
