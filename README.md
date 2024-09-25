@@ -2,7 +2,7 @@
 # Mini Quiz Application
 
 ## Overview
-The **Mini Quiz Application** is a Java-based application where users can take quizzes, track their scores, and choose from a variety of quiz categories. The app also includes an admin panel where administrators can add, edit, or delete quiz questions. It’s designed to be simple, fun, and interactive for both users and administrators.
+The **Mini Quiz Application** is a Java-based application where users can take quizzes, track their scores, and choose from a variety of quiz categories. The app also includes an admin panel where administrators can add, edit, or delete quiz questions. 
 
 ## Features
 - **Take Quizzes**: Users can attempt quizzes from different categories such as Science, Math, or History.
